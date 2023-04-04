@@ -1,0 +1,37 @@
+
+.search-head.data-v-4cedc0c6 {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 0 20rpx;
+	margin: 40rpx 0 30rpx 0;
+}
+.search-title.data-v-4cedc0c6 {
+	font-size: 28rpx;
+	color: #777;
+}
+.keyList.data-v-4cedc0c6 {
+	box-sizing: border-box;
+	display: flex;
+	flex-wrap: wrap;
+	padding: 0 20rpx;
+}
+.keyItem.data-v-4cedc0c6 {
+	box-sizing: border-box;
+	width: 33.3%;
+	padding: 14rpx;
+}
+.keyInfo.data-v-4cedc0c6 {
+	box-sizing: border-box;
+	background-color: #fff;
+	padding: 14rpx;
+	text-align: center;
+	font-size: 26rpx;
+	color: #303133;
+	border-radius: 100rpx;
+	white-space: nowrap;
+	overflow: hidden;
+	border: 1rpx solid #efefef;
+	text-overflow: ellipsis;
+}
+

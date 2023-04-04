@@ -1,0 +1,22 @@
+
+.grid-item-box.data-v-434d1b82 {
+	flex: 1;
+	/* position: relative; */
+
+	display: flex;
+
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	padding: 15px 0;
+}
+.text.data-v-434d1b82 {
+	font-size: 13px;
+	margin-top: 5px;
+	color: #666666;
+}
+.wrap-img.data-v-434d1b82 {
+	width: 88rpx;
+	height: 88rpx;
+}
+

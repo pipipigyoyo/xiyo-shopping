@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "西柚商城",
+  "usingComponents": {
+    "search": "/components/common/Search",
+    "notice": "/components/index/Notice",
+    "swiper": "/components/common/Swiper",
+    "wrap": "/components/index/Wrap",
+    "title": "/components/common/Title",
+    "index-image": "/components/common/indexImage",
+    "goods": "/components/index/Goods",
+    "window": "/components/index/Window"
+  }
+}

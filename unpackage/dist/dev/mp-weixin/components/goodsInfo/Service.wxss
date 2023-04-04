@@ -1,0 +1,47 @@
+
+.service.data-v-08e18002 {
+	height: 100rpx;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	background-color: #fafafa;
+	padding: 0 30rpx;
+}
+.serviceList.data-v-08e18002 {
+	display: flex;
+}
+.service-item.data-v-08e18002 {
+	margin-right: 20rpx;
+}
+.text.data-v-08e18002 {
+	font-size: 26rpx
+}
+.icon.data-v-08e18002 {
+	margin-right: 10rpx;
+}
+.service-more.data-v-08e18002 {
+	box-sizing: border-box;
+	padding: 24rpx;
+}
+.service-title.data-v-08e18002 {
+	text-align: center;
+	font-weight: 700;
+	font-size: 30rpx;
+	margin-bottom: 50rpx;
+}
+.chacha.data-v-08e18002 {
+	float: right;
+}
+.service-content-item.data-v-08e18002 {
+	display: flex;
+	margin-bottom: 50rpx;
+}
+.service-name.data-v-08e18002 {
+	font-size: 28rpx
+}
+.service-info.data-v-08e18002 {
+	margin-top: 20rpx;
+	font-size: 26rpx;
+	color: #6d6d6d;
+}
+

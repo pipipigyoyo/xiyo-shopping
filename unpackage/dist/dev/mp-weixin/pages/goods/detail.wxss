@@ -1,0 +1,31 @@
+
+.goodsDes.data-v-f0a9f5ba {
+	height: 90rpx;
+	line-height: 90rpx;
+}
+.goodsDesContent.data-v-f0a9f5ba {
+	background-color: #ffffff
+}
+.goodsDesContent.data-v-f0a9f5ba .img {
+	vertical-align: bottom;
+}
+.goodsNav.data-v-f0a9f5ba {
+	height: 100rpx;
+	width: 100%;
+}
+.goods-carts.data-v-f0a9f5ba {
+
+	display: flex;
+
+
+	flex-direction: column;
+	position: fixed;
+	left: 0;
+	right: 0;
+
+
+
+
+	bottom: 0;
+}
+

@@ -1,0 +1,89 @@
+
+.user-header.data-v-80842834 {
+	box-sizing: border-box;
+	height: 260rpx;
+	background-color: #fbf7ef;
+	padding-left: 30rpx;
+	padding-top: 60rpx;
+	display: flex;
+	align-items: center;
+}
+.user-head.data-v-80842834 {
+	height: 120rpx;
+	width: 120rpx;
+}
+.user-head image.data-v-80842834 {
+	height: 100%;
+	width: 100%;
+	border-radius: 50%;
+}
+.user-info.data-v-80842834 {
+	display: flex;
+	flex-direction: column;
+	margin-left: 30rpx;
+	color: #c59a46;
+}
+.userName.data-v-80842834 {
+	font-size: 34rpx;
+	font-weight: 700;
+}
+.userPhone.data-v-80842834 {
+	margin-top: 12rpx;
+	font-size: 30rpx;
+}
+.my-asset.data-v-80842834 {
+	box-sizing: border-box;
+	display: flex;
+	height: 176rpx;
+	padding: 0 30rpx;
+	align-items: center;
+	background-color: #fff;
+}
+.asset-item.data-v-80842834 {
+	display: flex;
+	flex-direction: column;
+	flex: 1;
+	box-sizing: border-box;
+	text-align: center;
+}
+.oneline-hide.data-v-80842834 {
+	margin-bottom: 5rpx;
+	color: #fa2209;
+	font-size: 34rpx;
+}
+.item-name.data-v-80842834 {
+	font-size: 28rpx;
+	color: #666666;
+}
+.wallet.data-v-80842834 {
+	border-left: 2rpx solid #f3f3f3;
+}
+.order-navbar.data-v-80842834 {
+	display: flex;
+	height: 160rpx;
+	box-sizing: border-box;
+	margin: 30rpx;
+	align-items: center;
+	background-color: #fff;
+}
+.my-service.data-v-80842834 {
+	margin: 0 30rpx;
+	padding-bottom: 30rpx;
+	background-color: #fff;
+}
+.service-title.data-v-80842834 {
+	padding: 30rpx;
+	color: #303133;
+}
+.outLogin-btn.data-v-80842834 {
+	padding: 0 30rpx;
+	margin: 30rpx 0;
+}
+.orderItem.data-v-80842834,
+.serviceItem.data-v-80842834 {
+	position: relative;
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+}
+

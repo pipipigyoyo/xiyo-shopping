@@ -1,0 +1,10 @@
+{
+  "component": true,
+  "usingComponents": {
+    "uni-icons": "/uni_modules/uni-icons/components/uni-icons/uni-icons",
+    "u-popup": "/uni_modules/uview-ui/components/u-popup/u-popup",
+    "u--image": "/uni_modules/uview-ui/components/u--image/u--image",
+    "u-number-box": "/uni_modules/uview-ui/components/u-number-box/u-number-box",
+    "u-button": "/uni_modules/uview-ui/components/u-button/u-button"
+  }
+}

@@ -1,0 +1,13 @@
+
+.window.data-v-aeec07b0 {
+	display: flex;
+	flex-wrap: wrap;
+}
+.windowImages.data-v-aeec07b0 {
+	width: 50%;
+}
+.window-content.data-v-aeec07b0 {
+	width: 100%;
+	vertical-align: bottom;
+}
+

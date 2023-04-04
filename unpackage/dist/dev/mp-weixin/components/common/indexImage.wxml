@@ -1,0 +1,1 @@
+<view class="indexImage data-v-338cc422"><block wx:for="{{data}}" wx:for-item="item" wx:for-index="index" wx:key="index"><view class="indexImages data-v-338cc422"><image class="image-content data-v-338cc422" src="{{item.imgUrl}}" mode="widthFix"></image></view></block></view>

@@ -1,0 +1,16 @@
+
+.search.data-v-20cdf97e {
+	height: 100rpx;
+	display: flex;
+	padding: 0 20rpx;
+	align-items: center;
+}
+.search-btn.data-v-20cdf97e {
+	height: 60rpx;
+	width: 140rpx;
+	line-height: 60rpx;
+	margin: 0;
+	font-size: 28rpx;
+	border-radius: 0 10rpx 10rpx 0
+}
+

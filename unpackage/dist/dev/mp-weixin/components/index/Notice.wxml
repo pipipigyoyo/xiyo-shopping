@@ -1,0 +1,1 @@
+<view class="notice data-v-2443f9e0"><uni-notice-bar vue-id="643a4014-1" show-icon="{{data.showIcon}}" scrollable="{{data.scrollable}}" text="{{data.text||''}}" class="data-v-2443f9e0" bind:__l="__l"></uni-notice-bar></view>

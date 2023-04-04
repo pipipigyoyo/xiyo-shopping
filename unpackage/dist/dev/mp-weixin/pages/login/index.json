@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "会员登录",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "mp-weixin": "/pages/login/components/mp-weixin",
+    "mp-weixin-mobile": "/pages/login/components/mp-weixin-mobile"
+  }
+}

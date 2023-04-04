@@ -1,0 +1,14 @@
+{
+  "navigationBarTitleText": "商品详情",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "goods-info": "/components/goodsInfo/goodsInfo",
+    "u-parse": "/uni_modules/uview-ui/components/u-parse/u-parse",
+    "uni-goods-nav": "/uni_modules/uni-goods-nav/components/uni-goods-nav/uni-goods-nav",
+    "swiper": "/components/common/Swiper",
+    "service": "/components/goodsInfo/Service",
+    "title": "/components/common/Title",
+    "index-image": "/components/common/indexImage",
+    "goods-sku": "/components/goodsInfo/goodsSku"
+  }
+}

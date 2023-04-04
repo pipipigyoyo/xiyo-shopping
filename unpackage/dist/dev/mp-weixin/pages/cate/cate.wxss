@@ -1,0 +1,11 @@
+
+.cate.data-v-56dc8334 {
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+}
+.cateList.data-v-56dc8334 {
+	flex: 1;
+	overflow: hidden;
+}
+

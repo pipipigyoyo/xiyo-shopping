@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "商品列表",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uni-icons": "/uni_modules/uni-icons/components/uni-icons/uni-icons",
+    "u-row": "/uni_modules/uview-ui/components/u-row/u-row",
+    "u-col": "/uni_modules/uview-ui/components/u-col/u-col",
+    "search": "/components/common/Search",
+    "goods": "/components/index/Goods"
+  }
+}

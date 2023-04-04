@@ -1,0 +1,48 @@
+
+.cate.data-v-c195e038 {
+	height: 100%;
+	display: flex;
+}
+.cateList.data-v-c195e038 {
+	height: 100%;
+	width: 180rpx;
+	display: flex;
+	flex-direction: column;
+	overflow: auto;
+}
+.cateItem.data-v-c195e038 {
+	height: 90rpx;
+	line-height: 90rpx;
+	text-align: center;
+	font-size: 26rpx;
+}
+.subclassification.data-v-c195e038 {
+	display: flex;
+	flex-wrap: wrap;
+	align-content: flex-start;
+	flex: 1;
+	background-color: #fff;
+	overflow: auto;
+	padding: 5rpx 0;
+}
+.childrenItem.data-v-c195e038 {
+	display: flex;
+	flex-direction: column;
+	height: 180rpx;
+	width: 180rpx;
+	margin: 5rpx;
+	align-items: center;
+}
+.childrenItem-image.data-v-c195e038 {
+	height: 145rpx;
+	width: 145rpx;
+}
+.childrenItem-image-title.data-v-c195e038 {
+	color: #444444;
+	font-size: 26rpx
+}
+.cur.data-v-c195e038 {
+	background-color: #fff;
+	color: #fa2209;
+}
+

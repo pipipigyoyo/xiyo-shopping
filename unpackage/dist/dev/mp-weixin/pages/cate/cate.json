@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "全部分类",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "search": "/components/common/Search",
+    "cate": "/components/cate/cate"
+  }
+}

@@ -1,0 +1,10 @@
+
+.indexImages.data-v-338cc422 {
+	display: flex;
+	flex-direction: column;
+}
+.image-content.data-v-338cc422 {
+
+	width: 100%;
+}
+
